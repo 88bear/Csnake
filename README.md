@@ -1,4 +1,4 @@
-# Csnake\
+# Csnake
 
 ```cpp
 #include <bits/stdc++.h>
